@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'Ping AR + LT';
+  src: url('https://cdn.jsdelivr.net/gh/yehiamm19/my-fonts@main/PingAR%2BLT-Hairline.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ping AR + LT';
+  src: url('https://cdn.jsdelivr.net/gh/yehiamm19/my-fonts@main/PingAR%2BLT-Thin.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ping AR + LT';
+  src: url('https://cdn.jsdelivr.net/gh/yehiamm19/my-fonts@main/PingAR%2BLT-ExtraLight.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ping AR + LT';
+  src: url('https://cdn.jsdelivr.net/gh/yehiamm19/my-fonts@main/PingAR%2BLT-Light.otf') format('opentype');
+  font-weight: 350;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ping AR + LT';
+  src: url('https://cdn.jsdelivr.net/gh/yehiamm19/my-fonts@main/PingAR%2BLT-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ping AR + LT';
+  src: url('https://cdn.jsdelivr.net/gh/yehiamm19/my-fonts@main/PingAR%2BLT-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ping AR + LT';
+  src: url('https://cdn.jsdelivr.net/gh/yehiamm19/my-fonts@main/PingAR%2BLT-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ping AR + LT';
+  src: url('https://cdn.jsdelivr.net/gh/yehiamm19/my-fonts@main/PingAR%2BLT-Heavy.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ping AR + LT';
+  src: url('https://cdn.jsdelivr.net/gh/yehiamm19/my-fonts@main/PingAR%2BLT-Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
